@@ -1,4 +1,4 @@
-# Project: ***Covid-19 Tracker***
+# ***Covid-19 Tracker***
 Objective: The COVID-19 Tracker is an application that will assist organizations across NH in administering their screenings as well as provide their staff with important resources, communications, and data surrounding COVID-19.
 
 ## User Story
